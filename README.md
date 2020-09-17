@@ -5,6 +5,8 @@ I started to developer web applications using PHP, MySQL, JS, CSS and HTML. But 
 
 See some projects below:
 
+- [A React template for Dashboard](https://github.com/lmourabraga/dashboard-react-sciensa) | [Demo](https://reactjs-dashboard.vercel.app/)
+
 - [Ecoleta](https://github.com/lmourabraga/rocketseat-nvl-one) | [Demo](https://ecoleta-nine.vercel.app/) 
 
 - [GitHub Explorer](https://github.com/lmourabraga/react-github-explorer) | [Demo](https://react-github-explorer.vercel.app/) 
