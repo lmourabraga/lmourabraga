@@ -18,5 +18,3 @@ See some projects below:
 Get in touch:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/lmourabraga/)
-
-Available for: Front-end position
