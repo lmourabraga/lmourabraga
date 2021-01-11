@@ -1,7 +1,7 @@
-### Hi there! :wave: :wink:
-I'm Luã Braga from Brazil. I've been working as Web Developer since 2011 and currently I'm Tech Lead at [Grupo Líder](http://www.grupolideronline.com.br/).
+### Hello world! :wave: :wink:
+I'm Luã Braga from Brazil. Currently I do my job as Specialist Front-end at [B2W Digital](https://ri.b2w.digital/en).
 
-I started to developer web applications using PHP, MySQL, JS, CSS and HTML. But here you will find a lot of studies and open sources projects I've been doing using Node JS as Back-End and React as Front-End.
+Here you will find a lot of studies and open sources projects I've been doing using Node JS as Back-End and React as Front-End.
 
 See some projects below:
 
