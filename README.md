@@ -1,5 +1,5 @@
 ### Hello world! :wave: :wink:
-I'm Luã Braga from Brazil. Currently I do my job as Specialist Front-end at [B2W Digital](https://ri.b2w.digital/en).
+I'm Luã Braga from Brazil. Currently I do my job as Front-end Specialist at [B2W Digital](https://ri.b2w.digital/en).
 
 Here you will find a lot of studies and open sources projects I've been doing using Node JS as Back-End and React as Front-End.
 
