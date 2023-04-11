@@ -1,7 +1,7 @@
 ### Hello world! :wave: :wink:
-I'm Luã Braga from Brazil. Currently I do my job as Front-end Specialist at [Americanas SA](https://ri.americanas.com/en).
+I'm Luã Braga from Brazil. Currently, I live in Europe and I do my job as Front-end Specialist working remotely for [Multivision](https://www.multivision.pt/).
 
-Here you will find a lot of studies and open sources projects I've been doing using Node JS as Back-End and React as Front-End.
+Here you will find a lot of studies and open-source projects I've been doing using Node JS as Back-End and React as Front-End.
 
 See some projects below:
 
