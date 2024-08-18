@@ -1,9 +1,11 @@
 ### Hello world! :wave: :wink:
-I'm Luã Braga from Brazil. Currently, I live in Europe and I do my job as Front-end Specialist working remotely for [Multivision](https://www.multivision.pt/).
+I'm a Brazilian based in Portugal. I've been working with development web and mobile since 2011 and currently, I'm working as a Software Engineer Front-end for [Growin](https://www.growin.com/).
 
-Here you will find a lot of studies and open-source projects I've been doing using Node JS as Back-End and React as Front-End.
+Here you will find some studies and open-source projects with technologies I use in my routine.
 
 See some projects below:
+
+- [App Movie finder with Next.js](https://github.com/lmourabraga/reactjs-ts-omdb-api?tab=readme-ov-file) | [Demo](https://reactjs-ts-movie-search.vercel.app/)
 
 - [A React template for Dashboard](https://github.com/lmourabraga/dashboard-react-sciensa) | [Demo](https://reactjs-dashboard.vercel.app/)
 
