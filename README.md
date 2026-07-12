@@ -1,5 +1,5 @@
 ### Hello world! :wave: :wink:
-I'm a Brazilian based in Portugal. I've been working with development web and mobile since 2011 and currently, I'm working as a Software Engineer Front-end for [Growin](https://www.growin.com/).
+I'm Portuguese Brazilian. I've been working with development web and mobile since 2011 and currently, I'm working as a Software Engineer Front-end for [Growin](https://www.growin.com/).
 
 Here you will find some studies and open-source projects with technologies I use in my routine.
 
